@@ -10,7 +10,7 @@
                             "projectTechStack": "ReactJS, Mapbox GL JS",
                             "githubLink": "https://github.com/mnk17arts/i-map/tree/master",
                             "liveLink": "https://mnk17arts.github.io/i-map",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/plan2k22/main/README.md",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/imap.md",
                             "image": "https://github.com/mnk17arts/i-map/blob/master/src/data/imap.png?raw=true",
                             "video": "",
                             "description": "i-map is a simple React web application that allows users to create and share interactive maps. It is built using the React framework and Mapbox GL JS"
@@ -22,7 +22,7 @@
                             "projectTechStack": "HTML, CSS, PHP, MySQL, Bootstrap",
                             "githubLink": "https://github.com/mnk17arts/Student-Result-Management-System",
                             "liveLink": "",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/Student-Result-Management-System/main/README.md",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/student_result_management_system.md",
                             "image": "https://github.com/mnk17arts/Student-Result-Management-System/blob/main/bits/img/ss0.png?raw=true",
                             "video": "https://user-images.githubusercontent.com/71878747/211599480-31538bf5-184e-42fb-8507-bfa524427735.mp4",
                             "description": "This is a simple Student Result Management System built using HTML, CSS, PHP, MySQL, Bootstrap."
@@ -33,7 +33,7 @@
                             "projectTechStack": "HTML, CSS, JS",
                             "githubLink": "https://github.com/mnk17arts/booklister",
                             "liveLink": "https://mnk17arts.github.io/booklister/",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/booklister/main/README.md",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/book_lister.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212004146-795096a8-3add-4448-b101-0af6571404c6.png",
                             "video": "",
                             "description": "Book Lister is simple web application made with simple Html, Css and Js. We can store our book lists here. For storage purpose, I used the Chorme local storage."
@@ -44,7 +44,7 @@
                             "projectTechStack": "HTML, CSS, JS",
                             "githubLink": "https://github.com/mnk17arts/tetris",
                             "liveLink": "https://mnk17arts.github.io/tetris/",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/tetris/main/README.md",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/tetris.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212020603-0a44d477-179e-4ed3-8be5-41210ec19e29.png",
                             "video": "",
                             "description": "Tetris is a simple web application made with simple Html, Css and Js. It is a simple game where we have to arrange the blocks in a way that they don't fill the whole screen."
@@ -56,7 +56,7 @@
                             "projectTechStack": "HTML, CSS, JS, OpenWeather API",
                             "githubLink": "https://github.com/mnk17arts/weaTHerApp",
                             "liveLink": "https://codepen.io/mnk17arts/full/jOpmpGy",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/weaTHerApp/main/README.md",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/weather_app.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212029121-37d6a9b5-5153-497c-8d04-023aaed4271c.png",
                             "video": "",
                             "description": "Weather App is a simple web application made with simple Html, Css and Js. It uses OpenWeather API to fetch the weather data."
@@ -72,12 +72,12 @@
           "desc" : "These are some of the Python projects that I have worked on. I have used OpenCV, Mediapipe, Numpy, etc. to build these projects.",
           "data" :   [  
                         { 
-                            "id": 6,
+                            "id": 51,
                             "projectTitle": "Virtual Paint",
                             "projectTechStack": "Python, OpenCV, Mediapipe, Numpy",
                             "githubLink": "https://github.com/mnk17arts/myPython/tree/main/opencv/virtual-paint-project",
                             "liveLink": "https://user-images.githubusercontent.com/71878747/118365406-4c163380-b5ba-11eb-8b4f-124e1ffb665a.mp4",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/myPython/main/opencv/virtual-paint-project/README.md",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Python/virtual_paint.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212035637-0f701f0c-97e3-445d-9b37-52369238b6a6.png",
                             "description": "Virtual Paint is a simple python project made with OpenCV, Mediapipe and Numpy. It is a simple project where we can draw on the screen using our fingers."
 
@@ -90,12 +90,12 @@
           "desc" : "These are some of the ML projects that I have worked on. I have used tensrflow, keras, Scikit-Learn, Pandas, Numpy, etc. to build these projects.",
           "data" :   [  
                         { 
-                            "id": 7,
+                            "id": 101,
                             "projectTitle": "Text Classification Algorithm For Twitter Data",
                             "projectTechStack": "Python, LSTM, Tensorflow, Keras, Pandas, Numpy",
                             "githubLink": "https://github.com/mnk17arts/Text_Classification_Algorithm_for_analyzing_twitter_data",
                             "liveLink": "",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/Text_Classification_Algorithm_for_analyzing_twitter_data/main/README.md",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/ML/twitter_data_tc.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212052628-51c98a8f-73f0-48c5-a859-a279df74ab9f.jpg",
                             "description": "This is a simple Text Classification Algorithm For Twitter Data built using Python, Tensorflow, Keras, Pandas, Numpy.It is a simple project where we can classify the tweets into disaster ones or not"
                         }  

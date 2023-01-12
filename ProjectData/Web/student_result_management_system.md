@@ -1,6 +1,6 @@
 ### Project Description
 
-`Student Result Management System` project is a dynamic web-based application that mainly focuses on providing the results to the student and the faculty. Both the student and faculty are given with respective user id credentials by the administration. Here in this project I my self created those credentials in the database. In this project I created to portals. Faculty and Students portal.
+> `Student Result Management System` project is a dynamic web-based application that mainly focuses on providing the results to the student and the faculty. Both the student and faculty are given with respective user id credentials by the administration. Here in this project I my self created those credentials in the database. In this project I created to portals. Faculty and Students portal.
 
 + Students can login using their credentials on the students portal and view / print / download their results.
 + Faculty can login using their credentials on the faculty portal and edit / modify / update / delete the results of the students. They can even add new student's to the database. (But the login credentials are not by them. I created the credentials of these new students in the database.)
