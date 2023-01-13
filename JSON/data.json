@@ -12,7 +12,6 @@
                             "liveLink": "https://mnk17arts.github.io/i-map",
                             "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/imap.md",
                             "image": "https://github.com/mnk17arts/i-map/blob/master/src/data/imap.png?raw=true",
-                            "video": "",
                             "description": "i-map is a simple React web application that allows users to create and share interactive maps. It is built using the React framework and Mapbox GL JS"
 
                         },
@@ -21,10 +20,9 @@
                             "projectTitle": "Student Result Management System",
                             "projectTechStack": "HTML, CSS, PHP, MySQL, Bootstrap",
                             "githubLink": "https://github.com/mnk17arts/Student-Result-Management-System",
-                            "liveLink": "",
+                            "liveLink": "https://user-images.githubusercontent.com/71878747/211599480-31538bf5-184e-42fb-8507-bfa524427735.mp4",
                             "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/student_result_management_system.md",
                             "image": "https://github.com/mnk17arts/Student-Result-Management-System/blob/main/bits/img/ss0.png?raw=true",
-                            "video": "https://user-images.githubusercontent.com/71878747/211599480-31538bf5-184e-42fb-8507-bfa524427735.mp4",
                             "description": "This is a simple Student Result Management System built using HTML, CSS, PHP, MySQL, Bootstrap."
                         },
                         {
@@ -35,7 +33,6 @@
                             "liveLink": "https://mnk17arts.github.io/booklister/",
                             "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/book_lister.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212004146-795096a8-3add-4448-b101-0af6571404c6.png",
-                            "video": "",
                             "description": "Book Lister is simple web application made with simple Html, Css and Js. We can store our book lists here. For storage purpose, I used the Chorme local storage."
                         },
                         {
@@ -46,7 +43,6 @@
                             "liveLink": "https://mnk17arts.github.io/tetris/",
                             "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/tetris.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212020603-0a44d477-179e-4ed3-8be5-41210ec19e29.png",
-                            "video": "",
                             "description": "Tetris is a simple web application made with simple Html, Css and Js. It is a simple game where we have to arrange the blocks in a way that they don't fill the whole screen."
 
                         },
@@ -58,8 +54,57 @@
                             "liveLink": "https://codepen.io/mnk17arts/full/jOpmpGy",
                             "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/weather_app.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212029121-37d6a9b5-5153-497c-8d04-023aaed4271c.png",
-                            "video": "",
                             "description": "Weather App is a simple web application made with simple Html, Css and Js. It uses OpenWeather API to fetch the weather data."
+                        },
+                        {
+                            "id": 6,
+                            "projectTitle": "Single Page Website",
+                            "projectTechStack": "HTML, SASS(CSS), JS, BOOTSTRAP, Google Maps API, Public API",
+                            "githubLink": "https://github.com/mnk17arts/LGMVIP-WEBDEV/tree/main/TASK-1",
+                            "liveLink": "https://mnk17arts.github.io/LGMVIP-WEBDEV/TASK-1/",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/single_page_website.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212244044-266eda13-ac6f-4e8d-a9d5-14a435da4d7c.png",
+                            "description": "This is a single page website made with HTML, SASS(CSS), JS, BOOTSTRAP, Google Maps API, Public API.  It's like template to a company's website."
+                        },
+                        {
+                            "id": 7,
+                            "projectTitle": "Simple Calculator",
+                            "projectTechStack": "HTML, SASS(CSS), JQuery, JS",
+                            "githubLink": "https://github.com/mnk17arts/myWebProjects/tree/main/js-simple-calculator",
+                            "liveLink": "https://mnk17arts.github.io/myWebProjects/js-simple-calculator/",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/simple_calculator.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212245748-4a031a36-9fe9-46b5-b4e7-42ba943d63ee.png",
+                            "description": "This is a simple calculator made with HTML, SASS(CSS), JQuery, JS. It's like a simple calculator with basic operations like addition, subtraction, multiplication and division."
+                        },
+                        {
+                            "id": 8,
+                            "projectTitle": "Pomodoro Clock",
+                            "projectTechStack": "HTML, SASS(CSS), JQuery, JS",
+                            "githubLink": "https://github.com/mnk17arts/myWebProjects/tree/main/pomodoro-clock",
+                            "liveLink": "https://mnk17arts.github.io/myWebProjects/pomodoro-clock/",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/pomodoro_clock.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212248105-88ed50b2-40e1-4e43-bed5-a243d5b40dac.png",
+                            "description": "This is a pomodoro clock made with HTML, SASS(CSS), JQuery, JS. It's like a timer which helps us to manage our time."
+                        },
+                        {
+                            "id": 9,
+                            "projectTitle": "Quote Machine",
+                            "projectTechStack": "HTML, SCSS(CSS), JQuery, JS",
+                            "githubLink": "https://github.com/mnk17arts/myWebProjects/tree/main/quote-machine",
+                            "liveLink": "https://codepen.io/mnk17arts/full/PopaWgN",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/quote_machine.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212252261-f5a9c97d-a0cc-4d82-a959-d8a9c28436eb.png",
+                            "description": "This is a quote machine made with HTML, SCSS(CSS), JQuery, JS. It's like a machine which gives us random quotes."
+                        },
+                        {
+                            "id": 10,
+                            "projectTitle": "Drum Machine",
+                            "projectTechStack": "HTML, SASS(CSS), ReactJS",
+                            "githubLink": "https://codepen.io/mnk17arts/pen/xxqagwq",
+                            "liveLink": "https://codepen.io/mnk17arts/full/xxqagwq",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/drum_machine.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212256398-ca8d7d74-ca50-4f84-9a79-e34b1eed8a5b.png",
+                            "description": "This is a drum machine made with HTML, SASS(CSS), ReactJS. It's like a machine which plays different sounds when we press different keys."
                         }
 
 
@@ -81,6 +126,16 @@
                             "image": "https://user-images.githubusercontent.com/71878747/212035637-0f701f0c-97e3-445d-9b37-52369238b6a6.png",
                             "description": "Virtual Paint is a simple python project made with OpenCV, Mediapipe and Numpy. It is a simple project where we can draw on the screen using our fingers."
 
+                        },
+                        { 
+                            "id": 52,
+                            "projectTitle": "Face Recognition",
+                            "projectTechStack": "Python, OpenCV, face_recognition, Numpy",
+                            "githubLink": "https://github.com/mnk17arts/myPython/tree/main/opencv/face-recognition-project",
+                            "liveLink": "https://user-images.githubusercontent.com/71878747/118287966-967fad80-b4f1-11eb-896a-63f5fe286ce0.mp4",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Python/face_recognition.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212261084-0d36b52c-c7b7-4481-a184-35ee474a3fc5.png",
+                            "description": "Face Recognition is a simple python project made with OpenCV, face_recognition and Numpy. It is a simple project where we can recognize the faces of the people in the image."
                         }
 
                     ]
@@ -98,7 +153,17 @@
                             "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/ML/twitter_data_tc.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212052628-51c98a8f-73f0-48c5-a859-a279df74ab9f.jpg",
                             "description": "This is a simple Text Classification Algorithm For Twitter Data built using Python, Tensorflow, Keras, Pandas, Numpy.It is a simple project where we can classify the tweets into disaster ones or not"
-                        }  
+                        },
+                        { 
+                            "id": 102,
+                            "projectTitle": "Text Classification Algorithm For Amazon Reviews Dataset",
+                            "projectTechStack": "Python, CNN, Tensorflow, Keras, Pandas, Numpy",
+                            "githubLink": "https://github.com/mnk17arts/Text-Classification-Algorithm-for-analysing-Amazon-Reviews-data",
+                            "liveLink": "",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/ML/amazon_data_tc.md", 
+                            "image": "https://user-images.githubusercontent.com/71878747/212283640-715270ee-63ed-4693-b4db-07dc569f25f0.jpg",
+                            "description": "This is a simple Text Classification Algorithm For Amazon Reviews Dataset built using Python, Tensorflow, Keras, Pandas, Numpy.It is a simple project where we can classify the reviews it's rating"
+                        }
                     ]
         }
     ]

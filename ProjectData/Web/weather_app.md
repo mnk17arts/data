@@ -19,4 +19,4 @@
 
 ### Project Demo
 
-> The demo of this project is available at the CodePen.io. You can view the demo from there. The link to the Pen is [Weather App](https://codepen.io/mnk17arts/full/jOpmpGy).
+> The Live demo of this project is available at the CodePen.io. You can view the demo from there. The link to the Pen is [Weather App](https://codepen.io/mnk17arts/full/jOpmpGy).

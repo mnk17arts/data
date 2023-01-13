@@ -3,9 +3,9 @@
 > `Text Classification Algorithm For Twitter Data` is a simple `ML` project made using `LSTM` model. On given a query the our model tells us whether it is a `disaster` or not. Here I used Twitter tweets data in the `csv` format. 
 
 > What all I used in this Project:-
-> Language : `Python`
-> ML Model : `LSTM`
-> Packages / Libraries : `tensorflow`, `keras`, `pandas`, `numpy`, `pyplot`, `re`, `string`, `nltk`, `Counter`, `Tokenizer`, `pad_sequences`, `layers`
+> + Language : `Python`
+> + ML Model : `LSTM`
+> + Packages / Libraries : `tensorflow`, `keras`, `pandas`, `numpy`, `pyplot`, `re`, `string`, `nltk`, `Counter`, `Tokenizer`, `pad_sequences`, `layers`
 
 + Firstly I imported the primary modules / libraries. Then I imported the dataset. Upon seeing the data info I removed the unnecessary columns.
 
@@ -41,4 +41,4 @@ _________________________________________________________________
 
 + Then I trained the model using `training` dataset and validated the output.
 
-+ The `python notebook` of this project is available in the Github Repository. The link to the Github Repo is [Twitter Data Analysis]
++ The `python notebook` of this project is available in the Github Repository. The link to the Github Repo is [Twitter Data Analysis](https://github.com/mnk17arts/Text_Classification_Algorithm_for_analyzing_twitter_data)

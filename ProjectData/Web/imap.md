@@ -48,4 +48,7 @@ Example:
 
 
 + This project code is available in the [GitHub](https://github.com/mnk17arts/i-map) repository. 
-+ The project is deployed in the [GitHub Pages](https://mnk17arts.github.io/i-map/).
+
+### Project Demo
+
+> The project is deployed in the [GitHub Pages](https://mnk17arts.github.io/i-map/).

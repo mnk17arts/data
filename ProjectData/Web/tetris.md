@@ -26,4 +26,4 @@
 
 ### Project Demo
 
-> The demo of this project is available at the Github pages. You can view the demo from there. The link to the Github pages is [Book Lister Demo](https://mnk17arts.github.io/tetris/).
+> The Live demo of this project is available at the Github pages. You can view the demo from there. The link to the Github pages is [Book Lister Demo](https://mnk17arts.github.io/tetris/).

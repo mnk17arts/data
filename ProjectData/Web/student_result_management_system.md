@@ -28,3 +28,7 @@
 
 
 - The full code of this project is available at the Github repository. You can download the code from there. The link to the Github repository is [Student Result Management System](https://github.com/mnk17arts/Student-Result-Management-System)
+
+### Project Demo
+
+> The demo of this project is stored in the Video format. The video is available at [Student Result Management System](https://user-images.githubusercontent.com/71878747/211599480-31538bf5-184e-42fb-8507-bfa524427735.mp4)
