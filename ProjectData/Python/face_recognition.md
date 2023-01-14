@@ -5,11 +5,11 @@
 + In this project we firstly detect the face of a person using the `face_recognition` library and then we use the `OpenCV` library to show the name of the person and the confidence score on the screen.
 
 > What all I have used in this project?
-  * `face_recognition` library
-  * `OpenCV` library
-  * `numpy` library
-  * `os` library
-  * `datetime` library
+>  * `face_recognition` library
+>  * `OpenCV` library
+>  * `numpy` library
+>  * `os` library
+>  * `datetime` library
 
 + We have a folder of images which consists of the details of the input data. So we compare face encodings of these data and the recognized face and then we show the name of the person and the confidence score on the screen.
 

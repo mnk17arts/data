@@ -136,6 +136,26 @@
                             "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Python/face_recognition.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212261084-0d36b52c-c7b7-4481-a184-35ee474a3fc5.png",
                             "description": "Face Recognition is a simple python project made with OpenCV, face_recognition and Numpy. It is a simple project where we can recognize the faces of the people in the image."
+                        },
+                        { 
+                            "id": 53,
+                            "projectTitle": "Hand Tracking Module",
+                            "projectTechStack": "Python, OpenCV, Mediapipe, Numpy",
+                            "githubLink": "https://github.com/mnk17arts/myPython/tree/main/opencv/hand-tracking-module",
+                            "liveLink": "https://user-images.githubusercontent.com/71878747/118363886-08b8c680-b5b4-11eb-8cf2-2d22d5d2a4af.mp4",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Python/hand_tracking.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212484631-2f50fc75-8901-42e7-bfc9-0207dc2b8c6d.png",
+                            "description": "Hand Tracking Module is a simple python project made with OpenCV, Mediapipe and Numpy. It is a simple project where we can track the hand movements."
+                        },
+                        { 
+                            "id": 54,
+                            "projectTitle": "Finger Counter Project",
+                            "projectTechStack": "Python, OpenCV, Mediapipe, Numpy",
+                            "githubLink": "https://github.com/mnk17arts/myPython/tree/main/opencv/finger-counter-project",
+                            "liveLink": "https://user-images.githubusercontent.com/71878747/118373781-29921380-b5d6-11eb-9efa-868fd62a6054.mp4",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Python/finger_counter.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212485292-91888333-0ddc-444e-b8ac-05c213bcbd87.png",
+                            "description": "Finger Counter Project is a simple python project made with OpenCV, Mediapipe and Numpy. It is a simple project where we can count the number of fingers."
                         }
 
                     ]
