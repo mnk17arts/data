@@ -105,6 +105,36 @@
                             "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/drum_machine.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212256398-ca8d7d74-ca50-4f84-9a79-e34b1eed8a5b.png",
                             "description": "This is a drum machine made with HTML, SASS(CSS), ReactJS. It's like a machine which plays different sounds when we press different keys."
+                        },
+                        {
+                            "id": 11,
+                            "projectTitle": "React Redux - Get Users",
+                            "projectTechStack": "HTML, CSS, ReactJs, Redux, Public API",
+                            "githubLink": "https://github.com/mnk17arts/ReactUsers",
+                            "liveLink": "https://mnk17arts.github.io/ReactUsers/",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/react_redux_users.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212524405-a454f2bf-f058-4df8-8b8c-d07c72cbb794.png",
+                            "description": "This is a React Redux project made with HTML, CSS, ReactJs, Redux, Public API. It's like a project which shows the list of users."
+                        },
+                        {
+                            "id": 12,
+                            "projectTitle": "React - Get Users",
+                            "projectTechStack": "HTML, CSS, ReactJs, Public API",
+                            "githubLink": "https://github.com/mnk17arts/LGMVIP-WEBDEV/tree/main/TASK-2",
+                            "liveLink": "https://mnk17arts.github.io/User-Card-Grid/",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/react_users.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212525341-730ae6de-9d38-43e4-8383-c7a9740bcc53.png",
+                            "description": "This is a React project made with HTML, CSS, ReactJs, Public API. It's like a project which shows the list of users."
+                        },
+                        {
+                            "id": 13,
+                            "projectTitle": "Flex Yoga Academy",
+                            "projectTechStack": "HTML, CSS, ReactJs, Php, MySQL",
+                            "githubLink": "https://github.com/mnk17arts/Flex-Yoga-Academy",
+                            "liveLink": "https://user-images.githubusercontent.com/71878747/212526675-a86844bc-2521-444b-b18f-1e4356409c52.mp4",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/flex_yoga_form.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212526642-5e7a6cfa-2f73-4af3-ae70-ef8a86a65151.png",
+                            "description": "This is a Flex Yoga Academy project made with HTML, CSS, ReactJs, Php, MySQL. It's like a project has form and it's connected to the database."
                         }
 
 
