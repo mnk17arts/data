@@ -4,7 +4,7 @@
 
 
 > What all I have used in this project?
-> + Web Development: HTML, CSS, JavaScript, Bootstrap
+> + Web Development: HTML, CSS, JavaScript, Bootstrap, JQuery, JQuery  Data Tables
 > + Backend: PHP 
 > + Database: MySQL (phpMyAdmin)
 > + Server: XAMPP (Apache, MySQL, PHP)

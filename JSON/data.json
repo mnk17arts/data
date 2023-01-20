@@ -4,19 +4,9 @@
           "type": "Web Projects",
           "desc" : "These are some of the web projects that I have worked on. I have used ReactJS, Mapbox GL JS, etc. to build these projects.",
           "data" :   [  
-                        { 
-                            "id": 1,
-                            "projectTitle": "i-map",
-                            "projectTechStack": "ReactJS, Mapbox GL JS",
-                            "githubLink": "https://github.com/mnk17arts/i-map/tree/master",
-                            "liveLink": "https://mnk17arts.github.io/i-map",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/imap.md",
-                            "image": "https://github.com/mnk17arts/i-map/blob/master/src/data/imap.png?raw=true",
-                            "description": "i-map is a simple React web application that allows users to create and share interactive maps. It is built using the React framework and Mapbox GL JS"
-
-                        },
                         {
-                            "id": 2,
+                            "id": 1,
+                            "url": "student-result-management-system",
                             "projectTitle": "Student Result Management System",
                             "projectTechStack": "HTML, CSS, PHP, MySQL, Bootstrap",
                             "githubLink": "https://github.com/mnk17arts/Student-Result-Management-System",
@@ -26,7 +16,19 @@
                             "description": "This is a simple Student Result Management System built using HTML, CSS, PHP, MySQL, Bootstrap."
                         },
                         {
+                            "id": 2,
+                            "url": "mlinks",
+                            "projectTitle": "Mlinks",
+                            "projectTechStack": "HTML, CSS, PHP, MySQL, Bootstrap",
+                            "githubLink": "https://github.com/mnk17arts/mlinks",
+                            "liveLink": "https://user-images.githubusercontent.com/71878747/212629129-227f86e5-31c1-4f65-a8e7-65abf5204e1d.mp4",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/mlinks.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212629262-bb3e0c03-92f9-44fb-ab6d-f66999ced92e.png",
+                            "description": "This is a Mlinks project made with HTML, CSS, PHP, MySQL, Bootstrap. It's like a project which manages the links of the user."
+                        },
+                        {
                             "id": 3,
+                            "url": "book-lister",
                             "projectTitle": "Book Lister",
                             "projectTechStack": "HTML, CSS, JS",
                             "githubLink": "https://github.com/mnk17arts/booklister",
@@ -37,6 +39,52 @@
                         },
                         {
                             "id": 4,
+                            "url": "flex-yoga-form",
+                            "projectTitle": "Flex Yoga Academy",
+                            "projectTechStack": "HTML, CSS, ReactJs, Php, MySQL",
+                            "githubLink": "https://github.com/mnk17arts/Flex-Yoga-Academy",
+                            "liveLink": "https://user-images.githubusercontent.com/71878747/212526675-a86844bc-2521-444b-b18f-1e4356409c52.mp4",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/flex_yoga_form.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212526642-5e7a6cfa-2f73-4af3-ae70-ef8a86a65151.png",
+                            "description": "This is a Flex Yoga Academy project made with HTML, CSS, ReactJs, Php, MySQL. It's like a project has form and it's connected to the database."
+                        },                        
+                        {
+                            "id": 5,
+                            "url": "react-redux-users",
+                            "projectTitle": "React Redux - Get Users",
+                            "projectTechStack": "HTML, CSS, ReactJs, Redux, Public API",
+                            "githubLink": "https://github.com/mnk17arts/ReactUsers",
+                            "liveLink": "https://mnk17arts.github.io/ReactUsers/",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/react_redux_users.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212524405-a454f2bf-f058-4df8-8b8c-d07c72cbb794.png",
+                            "description": "This is a React Redux project made with HTML, CSS, ReactJs, Redux, Public API. It's like a project which shows the list of users."
+                        },
+                         { 
+                            "id": 6,
+                            "url": "i-map",
+                            "projectTitle": "i-map",
+                            "projectTechStack": "ReactJS, Mapbox GL JS",
+                            "githubLink": "https://github.com/mnk17arts/i-map/tree/master",
+                            "liveLink": "https://mnk17arts.github.io/i-map",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/imap.md",
+                            "image": "https://github.com/mnk17arts/i-map/blob/master/src/data/imap.png?raw=true",
+                            "description": "i-map is a simple React web application that allows users to create and share interactive maps. It is built using the React framework and Mapbox GL JS"
+
+                        }, 
+                        {
+                            "id": 7,
+                            "url": "react-users",
+                            "projectTitle": "React - Get Users",
+                            "projectTechStack": "HTML, CSS, ReactJs, Public API",
+                            "githubLink": "https://github.com/mnk17arts/LGMVIP-WEBDEV/tree/main/TASK-2",
+                            "liveLink": "https://mnk17arts.github.io/User-Card-Grid/",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/react_users.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212525341-730ae6de-9d38-43e4-8383-c7a9740bcc53.png",
+                            "description": "This is a React project made with HTML, CSS, ReactJs, Public API. It's like a project which shows the list of users."
+                        },
+                        {
+                            "id": 8,
+                            "url": "tetris",
                             "projectTitle": "Tetris",
                             "projectTechStack": "HTML, CSS, JS",
                             "githubLink": "https://github.com/mnk17arts/tetris",
@@ -47,17 +95,8 @@
 
                         },
                         {
-                            "id": 5,
-                            "projectTitle": "Weather App",
-                            "projectTechStack": "HTML, CSS, JS, OpenWeather API",
-                            "githubLink": "https://github.com/mnk17arts/weaTHerApp",
-                            "liveLink": "https://codepen.io/mnk17arts/full/jOpmpGy",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/weather_app.md",
-                            "image": "https://user-images.githubusercontent.com/71878747/212029121-37d6a9b5-5153-497c-8d04-023aaed4271c.png",
-                            "description": "Weather App is a simple web application made with simple Html, Css and Js. It uses OpenWeather API to fetch the weather data."
-                        },
-                        {
-                            "id": 6,
+                            "id": 9,
+                            "url": "single-page-website",
                             "projectTitle": "Single Page Website",
                             "projectTechStack": "HTML, SASS(CSS), JS, BOOTSTRAP, Google Maps API, Public API",
                             "githubLink": "https://github.com/mnk17arts/LGMVIP-WEBDEV/tree/main/TASK-1",
@@ -67,7 +106,8 @@
                             "description": "This is a single page website made with HTML, SASS(CSS), JS, BOOTSTRAP, Google Maps API, Public API.  It's like template to a company's website."
                         },
                         {
-                            "id": 7,
+                            "id": 10,
+                            "url": "simple-calculator",
                             "projectTitle": "Simple Calculator",
                             "projectTechStack": "HTML, SASS(CSS), JQuery, JS",
                             "githubLink": "https://github.com/mnk17arts/myWebProjects/tree/main/js-simple-calculator",
@@ -77,7 +117,8 @@
                             "description": "This is a simple calculator made with HTML, SASS(CSS), JQuery, JS. It's like a simple calculator with basic operations like addition, subtraction, multiplication and division."
                         },
                         {
-                            "id": 8,
+                            "id": 11,
+                            "url": "pomodoro-clock",
                             "projectTitle": "Pomodoro Clock",
                             "projectTechStack": "HTML, SASS(CSS), JQuery, JS",
                             "githubLink": "https://github.com/mnk17arts/myWebProjects/tree/main/pomodoro-clock",
@@ -87,7 +128,8 @@
                             "description": "This is a pomodoro clock made with HTML, SASS(CSS), JQuery, JS. It's like a timer which helps us to manage our time."
                         },
                         {
-                            "id": 9,
+                            "id": 12,
+                            "url": "quote-machine",
                             "projectTitle": "Quote Machine",
                             "projectTechStack": "HTML, SCSS(CSS), JQuery, JS",
                             "githubLink": "https://github.com/mnk17arts/myWebProjects/tree/main/quote-machine",
@@ -97,7 +139,8 @@
                             "description": "This is a quote machine made with HTML, SCSS(CSS), JQuery, JS. It's like a machine which gives us random quotes."
                         },
                         {
-                            "id": 10,
+                            "id": 13,
+                            "url": "drum-machine",
                             "projectTitle": "Drum Machine",
                             "projectTechStack": "HTML, SASS(CSS), ReactJS",
                             "githubLink": "https://codepen.io/mnk17arts/pen/xxqagwq",
@@ -106,48 +149,21 @@
                             "image": "https://user-images.githubusercontent.com/71878747/212256398-ca8d7d74-ca50-4f84-9a79-e34b1eed8a5b.png",
                             "description": "This is a drum machine made with HTML, SASS(CSS), ReactJS. It's like a machine which plays different sounds when we press different keys."
                         },
-                        {
-                            "id": 11,
-                            "projectTitle": "React Redux - Get Users",
-                            "projectTechStack": "HTML, CSS, ReactJs, Redux, Public API",
-                            "githubLink": "https://github.com/mnk17arts/ReactUsers",
-                            "liveLink": "https://mnk17arts.github.io/ReactUsers/",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/react_redux_users.md",
-                            "image": "https://user-images.githubusercontent.com/71878747/212524405-a454f2bf-f058-4df8-8b8c-d07c72cbb794.png",
-                            "description": "This is a React Redux project made with HTML, CSS, ReactJs, Redux, Public API. It's like a project which shows the list of users."
-                        },
-                        {
-                            "id": 12,
-                            "projectTitle": "React - Get Users",
-                            "projectTechStack": "HTML, CSS, ReactJs, Public API",
-                            "githubLink": "https://github.com/mnk17arts/LGMVIP-WEBDEV/tree/main/TASK-2",
-                            "liveLink": "https://mnk17arts.github.io/User-Card-Grid/",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/react_users.md",
-                            "image": "https://user-images.githubusercontent.com/71878747/212525341-730ae6de-9d38-43e4-8383-c7a9740bcc53.png",
-                            "description": "This is a React project made with HTML, CSS, ReactJs, Public API. It's like a project which shows the list of users."
-                        },
-                        {
-                            "id": 13,
-                            "projectTitle": "Flex Yoga Academy",
-                            "projectTechStack": "HTML, CSS, ReactJs, Php, MySQL",
-                            "githubLink": "https://github.com/mnk17arts/Flex-Yoga-Academy",
-                            "liveLink": "https://user-images.githubusercontent.com/71878747/212526675-a86844bc-2521-444b-b18f-1e4356409c52.mp4",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/flex_yoga_form.md",
-                            "image": "https://user-images.githubusercontent.com/71878747/212526642-5e7a6cfa-2f73-4af3-ae70-ef8a86a65151.png",
-                            "description": "This is a Flex Yoga Academy project made with HTML, CSS, ReactJs, Php, MySQL. It's like a project has form and it's connected to the database."
-                        },
+
                         {
                             "id": 14,
-                            "projectTitle": "Mlinks",
-                            "projectTechStack": "HTML, CSS, PHP, MySQL, Bootstrap",
-                            "githubLink": "https://github.com/mnk17arts/mlinks",
-                            "liveLink": "https://user-images.githubusercontent.com/71878747/212629129-227f86e5-31c1-4f65-a8e7-65abf5204e1d.mp4",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/mlinks.md",
-                            "image": "https://user-images.githubusercontent.com/71878747/212629262-bb3e0c03-92f9-44fb-ab6d-f66999ced92e.png",
-                            "description": "This is a Mlinks project made with HTML, CSS, PHP, MySQL, Bootstrap. It's like a project which manages the links of the user."
+                            "url": "weather-app",
+                            "projectTitle": "Weather App",
+                            "projectTechStack": "HTML, CSS, JS, OpenWeather API",
+                            "githubLink": "https://github.com/mnk17arts/weaTHerApp",
+                            "liveLink": "https://codepen.io/mnk17arts/full/jOpmpGy",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Web/weather_app.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212029121-37d6a9b5-5153-497c-8d04-023aaed4271c.png",
+                            "description": "Weather App is a simple web application made with simple Html, Css and Js. It uses OpenWeather API to fetch the weather data."
                         },
                         {
                             "id": 15,
+                            "url": "mbs",
                             "projectTitle": "Messi Banking System",
                             "projectTechStack": "HTML, CSS, PHP, MySQL, Bootstrap",
                             "githubLink": "https://github.com/mnk17arts/messi-banking-system",
@@ -158,6 +174,7 @@
                         },
                         {
                             "id": 16,
+                            "url": "pgi",
                             "projectTitle": "Payment Gateway Integration",
                             "projectTechStack": "HTML, SASS, PHP, Bootstrap, Razorpay",
                             "githubLink": "https://github.com/mnk17arts/payment-gateway-integration",
@@ -166,29 +183,16 @@
                             "image": "https://user-images.githubusercontent.com/71878747/212660518-37d6128c-ec54-48f5-ada5-df2422ad5d3b.png",
                             "description": "This is a Payment Gateway Integration project made with HTML, SASS, PHP, Bootstrap, Razorpay. It's like a project which manages the payment gateway (Testing mode)."
                         }
-
-
-
-
                     ]
          },
         {
           "type": "Python Projects",
           "desc" : "These are some of the Python projects that I have worked on. I have used OpenCV, Mediapipe, Numpy, etc. to build these projects.",
           "data" :   [  
+
                         { 
                             "id": 51,
-                            "projectTitle": "Virtual Paint",
-                            "projectTechStack": "Python, OpenCV, Mediapipe, Numpy",
-                            "githubLink": "https://github.com/mnk17arts/myPython/tree/main/opencv/virtual-paint-project",
-                            "liveLink": "https://user-images.githubusercontent.com/71878747/118365406-4c163380-b5ba-11eb-8b4f-124e1ffb665a.mp4",
-                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Python/virtual_paint.md",
-                            "image": "https://user-images.githubusercontent.com/71878747/212035637-0f701f0c-97e3-445d-9b37-52369238b6a6.png",
-                            "description": "Virtual Paint is a simple python project made with OpenCV, Mediapipe and Numpy. It is a simple project where we can draw on the screen using our fingers."
-
-                        },
-                        { 
-                            "id": 52,
+                            "url": "face-recognition",
                             "projectTitle": "Face Recognition",
                             "projectTechStack": "Python, OpenCV, face_recognition, Numpy",
                             "githubLink": "https://github.com/mnk17arts/myPython/tree/main/opencv/face-recognition-project",
@@ -198,7 +202,8 @@
                             "description": "Face Recognition is a simple python project made with OpenCV, face_recognition and Numpy. It is a simple project where we can recognize the faces of the people in the image."
                         },
                         { 
-                            "id": 53,
+                            "id": 52,
+                            "url": "hand-tracking-module",
                             "projectTitle": "Hand Tracking Module",
                             "projectTechStack": "Python, OpenCV, Mediapipe, Numpy",
                             "githubLink": "https://github.com/mnk17arts/myPython/tree/main/opencv/hand-tracking-module",
@@ -208,7 +213,8 @@
                             "description": "Hand Tracking Module is a simple python project made with OpenCV, Mediapipe and Numpy. It is a simple project where we can track the hand movements."
                         },
                         { 
-                            "id": 54,
+                            "id": 53,
+                            "url": "finger-counter",
                             "projectTitle": "Finger Counter Project",
                             "projectTechStack": "Python, OpenCV, Mediapipe, Numpy",
                             "githubLink": "https://github.com/mnk17arts/myPython/tree/main/opencv/finger-counter-project",
@@ -216,8 +222,19 @@
                             "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Python/finger_counter.md",
                             "image": "https://user-images.githubusercontent.com/71878747/212485292-91888333-0ddc-444e-b8ac-05c213bcbd87.png",
                             "description": "Finger Counter Project is a simple python project made with OpenCV, Mediapipe and Numpy. It is a simple project where we can count the number of fingers."
-                        }
+                        },
+                        { 
+                            "id": 54,
+                            "url": "virtual-paint",
+                            "projectTitle": "Virtual Paint",
+                            "projectTechStack": "Python, OpenCV, Mediapipe, Numpy",
+                            "githubLink": "https://github.com/mnk17arts/myPython/tree/main/opencv/virtual-paint-project",
+                            "liveLink": "https://user-images.githubusercontent.com/71878747/118365406-4c163380-b5ba-11eb-8b4f-124e1ffb665a.mp4",
+                            "mdLink": "https://raw.githubusercontent.com/mnk17arts/data/main/ProjectData/Python/virtual_paint.md",
+                            "image": "https://user-images.githubusercontent.com/71878747/212035637-0f701f0c-97e3-445d-9b37-52369238b6a6.png",
+                            "description": "Virtual Paint is a simple python project made with OpenCV, Mediapipe and Numpy. It is a simple project where we can draw on the screen using our fingers."
 
+                        }
                     ]
          },
         {
@@ -226,6 +243,7 @@
           "data" :   [  
                         { 
                             "id": 101,
+                            "url": "twitter-data-analysis",
                             "projectTitle": "Text Classification Algorithm For Twitter Data",
                             "projectTechStack": "Python, LSTM, Tensorflow, Keras, Pandas, Numpy",
                             "githubLink": "https://github.com/mnk17arts/Text_Classification_Algorithm_for_analyzing_twitter_data",
@@ -236,6 +254,7 @@
                         },
                         { 
                             "id": 102,
+                            "url": "amazon-data-analysis",
                             "projectTitle": "Text Classification Algorithm For Amazon Reviews Dataset",
                             "projectTechStack": "Python, CNN, Tensorflow, Keras, Pandas, Numpy",
                             "githubLink": "https://github.com/mnk17arts/Text-Classification-Algorithm-for-analysing-Amazon-Reviews-data",
